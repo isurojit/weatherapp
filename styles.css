@@ -11,7 +11,6 @@ body{
     box-shadow: 0px 0px 8px 0px rgba(62,62,62,0.75);
     -webkit-box-shadow: 0px 0px 8px 0px rgba(62,62,62,0.75);
     -moz-box-shadow: 0px 0px 8px 0px rgba(62,62,62,0.75);
-    text-align: center;
 }
 #submit{
     position: relative;
@@ -41,9 +40,7 @@ ul{
 #locantion-picture{
     object-fit: cover;
     background-size: cover;
-    width: 120%;
-}
-#social{
+    width: 120%;text-align: center;
     display: flex;
     justify-content: space-evenly;
     font-size: 5rem;
@@ -83,7 +80,7 @@ ul{
     }    
     .main_card{
         position: relative;
-        top: -150px;
+        top: -95px;
     }
 }
 .image_not_found{
