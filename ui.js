@@ -68,19 +68,19 @@ class UI{
         }
 
     }
-    errorOutput(){;
-        this.location.textContent = '';
-        this.icon.setAttribute ('src', '');
-        this.humidity.textContent = '';
-        this.string.textContent = '';
-        this.description.textContent = '';
-        this.humidity.textContent = '';
-        this.visibility.textContent = '';
-        this.feelsLike.textContent = '';
-        this.wind.textContent = '';
-        this.minMax.textContent = '';
-        this.primaryText.textContent= `OOpps! The City Could Not Found.`;
-        this.secondaryText.textContent= `Please Check The Name & Spelling.`;
-        this.errorImg.setAttribute('src', 'https://webstockreview.net/images/clipart-monkey-gif-animation.gif');
-    }
+    // errorOutput(){;
+    //     this.location.textContent = '';
+    //     this.icon.setAttribute ('src', '');
+    //     this.humidity.textContent = '';
+    //     this.string.textContent = '';
+    //     this.description.textContent = '';
+    //     this.humidity.textContent = '';
+    //     this.visibility.textContent = '';
+    //     this.feelsLike.textContent = '';
+    //     this.wind.textContent = '';
+    //     this.minMax.textContent = '';
+    //     this.primaryText.textContent= `OOpps! The City Could Not Found.`;
+    //     this.secondaryText.textContent= `Please Check The Name & Spelling.`;
+    //     this.errorImg.setAttribute('src', 'https://webstockreview.net/images/clipart-monkey-gif-animation.gif');
+    // }
 }
