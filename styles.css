@@ -81,6 +81,10 @@ ul{
         background-color: none !important;
         color: none !important;
     }    
+    .main_card{
+        position: relative;
+        top: -150px;
+    }
 }
 .image_not_found{
     width: 25%;
