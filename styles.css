@@ -45,8 +45,12 @@ ul{
     justify-content: space-evenly;
     font-size: 5rem;
 }
+#social{
+    display: flex;
+}
 .social_icon{
     margin-right: 1.5rem;
+    font-size: 3rem;
 }
 .social_icon:hover{
     transform: scale(1.2);
